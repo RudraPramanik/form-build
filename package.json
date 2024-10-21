@@ -20,6 +20,7 @@
     "react-dom": "^18"
   },
   "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
     "@types/d3": "^7.4.3",
     "@types/node": "^20",
     "@types/react": "^18",
